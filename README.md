@@ -1,6 +1,4 @@
-Replicate_Virus 
-==========================
-About the Project
+About this Project files
 -----------------
 This is the files which replicates itself by its double, triple and multiple.
 The first file has the capabilities to replicate itself more that 100+ exe files in a single second.
